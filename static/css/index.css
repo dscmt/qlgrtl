@@ -6,7 +6,8 @@ body{
 	padding:0;
 	font:normal 18px Menksoft2012;
 	color:#454545;
-	background-color: #e0f3f9;
+	background-color: #4B9FD6;
+
 	/*text-align: center;*/ /*居中*/
 	/*writing-mode: vertical-lr;*//*从左向右 从右向左是 writing-mode: vertical-rl;*/
 }
@@ -20,6 +21,14 @@ div{
 	writing-mode: horizontal-tb;
 }
 
-.nav{
-	font-size: 36px;
+#native{
+	width: 1003px;
+	height: 176px;
+	margin: auto;
+	font-size: 25px;
+}
+
+
+#carousel{
+	margin: 0 auto;
 }

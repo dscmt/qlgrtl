@@ -1,0 +1,47 @@
+
+body{
+	min-height: 60vh;
+	font:normal 18px Menksoft2012;
+}
+
+div{
+	margin-top: 100px;
+	margin-bottom: 100px;
+/*	border:1px solid #000;*/
+	writing-mode: vertical-lr;
+	/*display: inline;*/
+	height: 70%;
+	width: auto;
+}
+
+.context{
+	height: auto;
+	width: 100%;
+
+	/*background-color: rgba(100,0,200,0.1);*/
+}
+
+.logo{
+	margin: 0;
+	width: 150px;
+	height: 100%;
+	background-color: rgba(20,130,140,0.3);
+/*	opacity: 0.3;*/
+}
+.texttitle{
+	margin: 0;
+	height: 100%;
+	text-align: center;
+	background-color: rgba(0, 0, 200,0.1);
+}
+.maintext{
+	margin: 0;
+	height: 100%;
+	width: auto;
+	background-color: rgba(0, 120, 200,0.1);
+}
+.footerinfo{
+	margin: 0;
+	text-align: center;
+	height: 100%;
+}
